@@ -53,12 +53,3 @@ El proyecto es 100% estático, lo que garantiza que sea ligero y seguro:
 * **JavaScript (Vanilla):** Lógica de navegación, sistema de modales personalizados y validación de respuestas.
 
 ---
-
-## 🚀 Instalación
-
-No requiere configuración de servidor ni bases de datos:
-
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/terms-trap.git](https://github.com/tu-usuario/terms-trap.git)
-   
